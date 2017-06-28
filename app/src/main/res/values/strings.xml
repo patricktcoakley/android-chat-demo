@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat Demo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="image_picker_desc">Choose an image to send.</string>
+    <string name="edit_text_placeholder">Start typing...</string>
+</resources>
